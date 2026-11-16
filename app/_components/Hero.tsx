@@ -9,7 +9,7 @@ function Hero() {
         <div className='grid grid-cols-1 md:grid-cols-2 gap-8 items-center'>
             <div className='text-center md:text-left'>
                 <h2 className='text-[42px] sm:text-[56px] md:text-[70px] text-primary font-extrabold py-6 md:py-10 leading-tight'>
-                    Craft Magical Stories for kids in Minutes
+                    Craft Mavelous Stories for kids in Minutes
                 </h2>
                 <p className='text-lg sm:text-xl md:text-2xl text-primary font-light'>
                     Create fun and personalised stories that bring your child's adventures to life and spark their passion for reading. It only takes a few seconds!
